@@ -15,11 +15,11 @@ body {
 
 header	{
 	float: left;
-	background-color: #4aaaa5;
+	background-color: #000000;
 	border-bottom: none;
-	color: #ffffff;
+	color: #0cfd21;
 	height: 100%;
-	width: 270px;
+	width: 500px;
 	margin-left: 125px;
 	margin-bottom: 0;
 	font-family: 'Georgia', Times, Times New Roman, serif;
@@ -136,8 +136,8 @@ footer {
 	clear: both;
 	overflow: auto;
 	margin: 0 auto;
-	background-image: url("../images/background.png");
-	height: 600px;
+	background-image: url("https://www.picz.in.th/images/2018/08/30/f9mPoP.jpg");
+	height: 800px;
 	width: 100%;
 	border-bottom: 5px solid #4aaaa5;
 }
